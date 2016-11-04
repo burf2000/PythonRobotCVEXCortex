@@ -3,4 +3,4 @@ Example project for 2 way communication between a VEX Cortex (EDR) and Python.  
 
 This is based on work by JMarple https://github.com/JMarple/BNSBluetooth who wrote the main library for RobotC, I have just made a sample program for Python and RobotC
 
-This uses PySerial
+This uses PySerial https://pythonhosted.org/pyserial/
